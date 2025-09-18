@@ -19,4 +19,4 @@ Vamos a comenzar creando un Hola Mundo en Java, para esto debemos abrir Visual S
     }
 }`
 
-Luego correriamos el código y estaría listo. 
+Luego ejecutariamos el código y estaría listo. 
